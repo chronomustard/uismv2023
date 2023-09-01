@@ -15,5 +15,3 @@ We welcome contributions to the website. If you would like to contribute, please
 
 ## License
 The website is licensed under the MIT License.
-
-I hope this is what you are looking for. Let me know if you have any other questions.
