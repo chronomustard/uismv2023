@@ -13,7 +13,7 @@ To get started with the website, simply clone the repository and run the followi
 npm install
 npm start
 `
-This will start the development server on port 8080. You can then open the website in your browser by visiting http://localhost:8080.
+. This will start the development server on port 8080. You can then open the website in your browser by visiting http://localhost:8080.
 
 ## Contributing
 We welcome contributions to the website. If you would like to contribute, please fork the repository and submit a pull request.
