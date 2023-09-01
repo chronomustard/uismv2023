@@ -1,5 +1,5 @@
 # Universitas Indonesia Supermileage Vehicle 2023 Website
-This website is powered by Bootstrap and is used to showcase the Universitas Indonesia Supermileage Vehicle team's progress in the 2023 Supermileage Competition.
+This website is powered by Bootstrap and is used to showcase the Universitas Indonesia Supermileage Vehicle team's profile and achievements.
 
 ## Features
 The website features a responsive design that looks great on all devices.
