@@ -1,6 +1,8 @@
 # Universitas Indonesia Supermileage Vehicle 2023 Website
 
-Welcome to the GitHub repository for the Universitas Indonesia Supermileage Vehicle 2023 website. This website is dedicated to showcasing our project, sharing updates, and providing information about our team's journey in building a supermileage vehicle.
+Welcome to the GitHub repository for the Universitas Indonesia Supermileage Vehicle 2023 profile website. This website is dedicated to showcasing our project, sharing updates, and providing information about our team's journey in building a supermileage vehicle.
+
+The Universitas Indonesia Supermielage Vehicle Profile Website project is a user-friendly platform created using the Bootstrap framework, offering detailed vehicle profiles of Supermielage vehicles for students and automotive enthusiasts. With a clean and intuitive interface, the website provides comprehensive information, including specifications, images, and performance data, presented in a clear and concise manner. Its responsive design ensures accessibility across various devices, making it a valuable resource for those interested in learning more about Supermielage vehicles, emphasizing simplicity and ease of use.
 
 ## About
 
